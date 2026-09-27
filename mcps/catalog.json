@@ -3,7 +3,7 @@
   "version": "2026.08",
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-27",
   "totalServers": 146,
   "categories": [
     {
@@ -1225,17 +1225,19 @@
       "id": "figma",
       "name": "Figma MCP",
       "category": "Design",
-      "github": "https://github.com/figma/figma-mcp",
-      "stars": 3000,
-      "description": "Figma file access for design-to-code workflows",
-      "install": "Available via community",
-      "license": "MIT",
+      "github": "https://github.com/figma/mcp-server-guide",
+      "stars": 2023,
+      "description": "Official remote MCP server: Figma design context for coding agents",
+      "install": "Remote MCP: https://mcp.figma.com/mcp",
+      "license": "Proprietary",
       "verified": true,
       "tags": [
         "figma",
         "design",
         "ui",
-        "prototype"
+        "prototype",
+        "remote",
+        "official"
       ]
     },
     {
