@@ -3,7 +3,7 @@
   "version": "2026.08",
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "totalServers": 147,
   "categories": [
     {
@@ -689,8 +689,8 @@
       "id": "docker",
       "name": "Docker MCP",
       "category": "DevOps",
-      "github": "https://github.com/docker/mcp",
-      "stars": 4000,
+      "github": "https://github.com/docker/mcp-gateway",
+      "stars": 1587,
       "description": "Container management and MCP server discovery with 300+ catalog entries",
       "install": "Via Docker Desktop",
       "license": "Apache-2.0",
