@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
-  "lastUpdated": "2026-10-01",
-  "totalServers": 149,
+  "lastUpdated": "2026-10-02",
+  "totalServers": 148,
   "categories": [
     {
       "name": "Official Reference",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Cloud Platforms",
-      "count": 7
+      "count": 6
     },
     {
       "name": "DevOps",
@@ -649,23 +649,6 @@
         "droplets",
         "kubernetes",
         "hosting"
-      ]
-    },
-    {
-      "id": "vercel",
-      "name": "Vercel MCP",
-      "category": "Cloud Platforms",
-      "github": "https://github.com/vercel/mcp",
-      "stars": 2000,
-      "description": "Deploy and manage Vercel projects, edge functions, and analytics",
-      "install": "Remote MCP at mcp.vercel.com",
-      "license": "MIT",
-      "verified": true,
-      "tags": [
-        "vercel",
-        "deployment",
-        "edge",
-        "analytics"
       ]
     },
     {
