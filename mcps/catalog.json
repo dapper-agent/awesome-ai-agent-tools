@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
-  "lastUpdated": "2026-10-02",
-  "totalServers": 150,
+  "lastUpdated": "2026-10-03",
+  "totalServers": 149,
   "categories": [
     {
       "name": "Official Reference",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Design",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Finance",
@@ -1204,23 +1204,6 @@
         "prototype",
         "remote",
         "official"
-      ]
-    },
-    {
-      "id": "canva",
-      "name": "Canva MCP",
-      "category": "Design",
-      "github": "https://github.com/canva/mcp-server",
-      "stars": 500,
-      "description": "Create and modify Canva designs programmatically",
-      "install": "Available via Canva developer docs",
-      "license": "MIT",
-      "verified": true,
-      "tags": [
-        "canva",
-        "design",
-        "graphics",
-        "visual"
       ]
     },
     {
